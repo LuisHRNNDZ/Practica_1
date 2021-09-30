@@ -4,4 +4,3 @@ Hola a todos mi nombre es Noé Rivera
 Este es otra linea hecha por Noé :)
 Hola a todos mi nombre es Jesus 
 Esta es mi segundo commit yisus
-Linea a reevertir numero 1
